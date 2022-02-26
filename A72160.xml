@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Inglish disputing of the fait hgoodes [sic], and their lawes the which I haue written according to the nevve inuention of the magnifyk and great doctour, and aduocat, Sir Philippe Glaum, &amp;c. ... the third day of the moneth called Februarii, in the yeare of our Lorde a thousand, six hundred, three and twentie : thervp [sic] I will answer euen well in my English, with the grace and healp of the holy ghost [sic], by the shoole at H[e?]arbourn, at the seuen tenth day of the same moneth / Steuen George.</title>
+            <author>George, Steven.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72160</idno>
+            <idno type="STC">STC 11745.7</idno>
+            <idno type="STC">ESTC S5347</idno>
+            <idno type="EEBO-CITATION">39961067</idno>
+            <idno type="OCLC">ocm 39961067</idno>
+            <idno type="VID">150475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1946:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Inglish disputing of the fait hgoodes [sic], and their lawes the which I haue written according to the nevve inuention of the magnifyk and great doctour, and aduocat, Sir Philippe Glaum, &amp;c. ... the third day of the moneth called Februarii, in the yeare of our Lorde a thousand, six hundred, three and twentie : thervp [sic] I will answer euen well in my English, with the grace and healp of the holy ghost [sic], by the shoole at H[e?]arbourn, at the seuen tenth day of the same moneth / Steuen George.</title>
+                  <author>George, Steven.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iohn Carll Ounkel,</publisher>
+                  <pubPlace>Printed at Frankofourd :</pubPlace>
+                  <date>in the yeare of our Lord, 1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: broken type and print show-through, with loss of print.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150475:1" rendition="simple:additions"/>
+            <p>AN INGLISH DISPUTING, <hi>of the</hi> FAITHGOODES, AND THEIR LAWES, The Which <hi>I haue Written according to the nevve inuention of the magnifyk and great Doctour, and Aduocat Sir</hi> Philippe Glaum, &amp;c. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and quickelie, the thenth day of my Inglish, that is to ſay.</hi>
+            </p>
+            <p>The third day of moneth called Februarii, in the yeare of our Lorde a thouſand, ſix hundred, three and twentie: Thervp <hi>I Will anſwer euen well in my English, with the grace and healp of the holy ghoſt. by the shoole at Hearbourn, at the ſeuen tenth day of the ſame moneth.</hi>
+            </p>
+            <p>STEUEN GEORGE.</p>
+            <p>Printed at Fraunkofourd, by Iohn Carll Ounkel, in the yeare of our lord. 1623.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150475:2"/>
+            <opener>
+               <salute>Illuſtriſsimis, celſiſsimis &amp; generoſiſsimis Principibus, Comiti, &amp; Dominis,
+<list>
+                     <item>Dn. Philippo, Haſſiae Landgrauio, Comiti in Catzen<g ref="char:EOLhyphen"/>elnbogen, Dietz, Ziegenhain &amp; Nidda, &amp;c.</item>
+                     <item>Dn. Auguſto, Principi Anhaltino, Comiti Aſcaniae, Domini Serueſtae &amp; Bernburgi, &amp;c.</item>
+                     <item>Dn. Adolpho, Comiti in Bentheim. Teclenburg, Stein<g ref="char:EOLhyphen"/>furt &amp; Lymburg, Domino in Rheda, Weueling<g ref="char:EOLhyphen"/>houen, Hoya Alpen &amp; Helfenſtein, <hi>L.</hi> Baroni in Lennep, praef. col. hered. &amp;c.</item>
+                  </list>
+               </salute>
+            </opener>
+            <p>
+               <hi>Principibus, Comiti &amp; Dominis ſuis clementiſs.</hi>
+            </p>
+            <p>Hanc, de Feudis &amp; ipſorumiure, Anglicam diſpu<g ref="char:EOLhyphen"/>tationem, 10. die à ſe conſcriptam.</p>
+            <closer>
+               <hi>Subiectiſsime &amp; humilime dedicat,</hi> 
+               <signed>Stephanus Georgius Embdenſis, author &amp; Reſpondens.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dispute">
+            <pb facs="tcp:150475:2"/>
+            <head>An Inglish diſputing, <hi>of the</hi> FAITH GOODES, AND Their Lawes.</head>
+            <div type="introduction">
+               <head>THE ENTRANCE.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>ERING that i haue vntill novv learned nyne dayes the Inglish tounghe, according to the nevve vvay and inuention of the Doct. <hi>Philippe Glaum, &amp;c.</hi> (vvhich deſireth novvſe, that any man shall thinke of him more, then as he ſeeth in him, or that he heareth of him) ard concluding by me, that i vvill vvrite an Inglish diſputing, and diſpute the ſame, ſo much as it is poſsi<g ref="char:EOLhyphen"/>ble, in one ſpeach that ther is vnknovven to the greateſt part: Haue i vvould take the materie of the faithgoodes and their lavves God, the father of our Lorde Ieſus Chriſt, geeue me bis gra<g ref="char:EOLhyphen"/>ce. Amen.</p>
+            </div>
+            <div n="1" type="setting">
+               <head>THE FIRST SETTING.</head>
+               <p>At the beginning is heare to knovve, that this right or lavv be an vnvvriten right, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: Neuertheleſſe is it a generall right and, in the iudgement of the faithgoodes, is the ſame lavv of more ualue, as ther is the vvriten lavv, that may only be vſed in ſuch caſe, if the lavves of the faithgoodes, and the lyknes of the ſame lavves lacke, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </div>
+            <div n="2" type="setting">
+               <head>THE SECONDE SETTING.</head>
+               <p>It is vncertaine, vvhence the lavves of the faithgoodes haue his firſt beginning ſo is it alſo not profitable for to vvit: Neuertheles is the commone meaning of the lavvyers, that theſe lavves of the faithgoodes haue ben comen from the Longebeardes.</p>
+            </div>
+            <div n="3" type="setting">
+               <head>THE THIRD SETTING.</head>
+               <p>Of greater profite is it, thalmen knovve the definition, vvhich alſo loudeth: A<note n="a)" place="bottom">Feodum Chr. Laur. vel praeſtarium, <hi>ein Lehen,</hi> à praeſtando: ſed Ital. preſtar, &amp; preſter Gal. eſt commodare. Beneficium, ann. Fr. beneficium Caſtrenſe L. <hi>ein Burglehen:</hi> aliud eſt Vollehen. L. q. <hi>Fahnen, Lehen.</hi>
+                  </note> faith<g ref="char:EOLhyphen"/>good
+<pb facs="tcp:150475:3"/>is a benefitie, that ther is giuen in ſuch vviſe to any man of a beneuolence, that the proprie<g ref="char:EOLhyphen"/>tie of the ground: good, vvkich is giuen in benefitie, remaineth by the lorde, bot the fruitefull uſe of the ſame, paſſeth ſo to the taking, that it pertai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth in all tymes to him and his heires, ſo vvel vvamen as vvomen, ſif that is ſayd namelie: to thind, that he and his heires ſerue faith<g ref="char:EOLhyphen"/>fullie to the lorde, if that ſeruice be expreſſed namely, of vvhat ſorth it shall be, eyther be pro<g ref="char:EOLhyphen"/>miſed vndeterminedlie.</p>
+            </div>
+            <div n="4" type="setting">
+               <head>THE FOURTH SETTING.</head>
+               <p>The faithgood is propre, or vnpropre: Her after is it vvamanly, or vvomanly: for à male receiueth a Wamanlie faithgood. At the third is it Worldly, or churchly, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. At the fourth is it noble, or vnnoble. At the fift, is it nevve, or fatherlie, the vvhich ſome any hath gotten from one of his parentes through the ſucceſsion. *<note place="bottom">item a manour. Cl. verb. praedium.</note>
+               </p>
+            </div>
+            <div n="5" type="setting">
+               <head>THE FIFT SETTING.</head>
+               <p>Touching the perſons, the vvhich may geeue the faithgoodes, is li it knovve, that all they, Which haue the adminiſtration of his goodes, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, may alſo vvell geeue his goodes in benefitie, vvithout any difference, vvhither the ſame be nobles, or vnnobles, vva<g ref="char:EOLhyphen"/>manlies or Womanlies, Worldlies or churchlies.</p>
+            </div>
+            <div n="6" type="setting">
+               <head>THE SIXTE SETTING.</head>
+               <p>On the contrary ſo may other perſones not geeue faythgoodes: to vvit, that theare not haue the free vvilling adminiſtration of is goodes, as ther are they, vvhich be under the might of their father or<note n="b)" place="bottom">In Chr. Laur. Mundeburde, i. e, defenſio, tutela: ſimile Ger. Mundbar, &amp; Gal. manburnie.</note> defenders. Lykvviſe none prelat may geeue any faythgood of the gooder of his church, vvithout the caſe of need. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </div>
+            <div n="7" type="setting">
+               <head>THE SEUENTH SETTING.</head>
+               <p>But euery<note n="c)" place="bottom">Vaſſalli, ann. Fr. leodes leutte, ſed alii ſunt litones. Alb. abb. Stad. liti vel lidi. Laur. id eſt, proprii homines, item miniſteriales, <hi>dienſtientte,</hi> L. v. § Si miniſteriales, de pac. ten. Sed &amp; alii ſunt manſuarii (à manſus vel manſum, ut manſum regale, dominicum eſt, &amp;c.) vel manentes. L. &amp; viciſſim alii burgenſes &amp; ciuitatenſes, qui opponuntur comitatenſibus. Alii iterum mar<g ref="char:EOLhyphen"/>henſes &amp; marchiones ann. Fr. hodie <hi>hohe men.</hi> Ital. marcheſe. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Niceph, à marca, nn. Fr. <hi>diegemarck.</hi>
+                  </note> man can receaue a faithgood, the vvhich vnderſtandeth a litle of the af<g ref="char:EOLhyphen"/>faire: for that cauſe, vvhile that faythgood is a benefitie and gift, thvvhich may receaue they, vvhich theare be ouer ſeuen, yeares: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Bot if the geuing of the faithgood is a contract, is the geuer oblished alone, but the receauer as then, vvhen, he shall haue accomplished the fiue and tvventieth yeare of his eage.</p>
+               <pb facs="tcp:150475:3"/>
+            </div>
+            <div n="8" type="setting">
+               <head>THE EIGHT SETTING.</head>
+               <p>And in ſuch maner is in the perſone, that receauetha faithgood, none difference, of vvhat ſtat or qualitie the ſame be: vvith vnderſtanding, vvhile the geeuer may it knovve before.</p>
+            </div>
+            <div n="9" type="setting">
+               <head>THE NYNTH SETTING.</head>
+               <p>A faythgood can be geuen or<note n="a)" place="bottom">Adtractus, alias compatatum. Laur.</note> receined through a proctour, if he hath ar expreſſe charge for to make a nevv faithgood.</p>
+            </div>
+            <div n="10" type="setting">
+               <head>THE TENTH SETTING.</head>
+               <p>Lyk as the perſones may geeue a faithgood, vvhich there may alienat, and to gether preſent in giftes theyr goodes: After the ſame fashion the goodes can be giue<g ref="char:cmbAbbrStroke">̄</g> in ben fitie, the vvhich may be<note n="b)" place="bottom">Derittum vel drictu<g ref="char:cmbAbbrStroke">̄</g>, in priuil. Lud. Imp. dato Caſtr. i.e. ius q. ius directum, ab Ital, dritto.</note> alienated and geuen in gift. Then if ther is any faulte in the one or the other, can the faithgood not be geuen. <hi>2.</hi> F. <hi>3.</hi> in the beginning.</p>
+            </div>
+            <div n="11" type="setting">
+               <head>THE ELEUENTH SETTING.</head>
+               <p>The goodes shall be a ground (as is ſayd aboue in the definition) or the which are<note n="c)" place="bottom">Coniecta, ap. Maſſon. 2. ann. q. <hi>ein zuſchos,</hi> i.e. fodrum, annona commeatus: precariae <hi>beede,</hi> hodie neceſſariae: ſimile ſteura, <hi>ſtevver,</hi> ann. Henr. Regalia Brun. in hoſt. bell. Sax. id eſt, reditusregni, ut regnumnon, cui nulla regalia, per eund. ſimiles Fiſci, Laur. Regalia etiam pto ornamentis ad inaugurationem pertinentibus, ut ſunt corona, globus, ſceptrum, lancea. &amp;c. <hi>vviterb.</hi>
+                  </note> compted among the ground goodes, as heare be tolle, tribuit, &amp;c.</p>
+            </div>
+            <div n="12" type="setting">
+               <head>THE TWELUETH SETTING.</head>
+               <p>Further more shall they be ſuch goodes, of the vvhich men can fetch any profite or ho<g ref="char:EOLhyphen"/>nour, lyk as in the povver to iudge of the life, for the vvhich often tymes more is ſpended, as theare is vvorthie the taken profite.</p>
+            </div>
+            <div n="13" type="setting">
+               <head>THE TRETTENTH SETTING.</head>
+               <p>It is one moode only for to obtaine a faithgood, to vvit, the inueſtiture, if the poſſeſsion be ouergeuen: and this is the, propre inueſtiture. In an other maner is made the inueſtiture, vvhen the lorde geueth another<note n="d)" place="bottom">Feſtuca, i.e. calamus, quo veterib. alioqui ceſſio &amp; traditio ſolennis fiebat, <hi>mit mund vnd halm:</hi> hodie <hi>hand:</hi> unde exfeſtucare. Firmitas chartae. Chr. Auguſt. i.e. documenta, <hi>handfest.</hi>
+                  </note> bodely thing, as à pike,<note n="e)" place="bottom">A Gal. eſtendart. q.ab eſtender. banderium vel banerium. Burchard. Notar. Imp. Frid. i.e. vexillum, vel etiam bandum, Ital. bandera, Gal. baniere. Sed aliud bannum regium. Laur. id eſt, edictum, interdictum.</note> ſtanderd, &amp;c. ſaying that he ge<g ref="char:EOLhyphen"/>ueth the faythgoods profeſsion.</p>
+            </div>
+            <div n="15" type="setting">
+               <head>THE FIFTENTH SETTING.</head>
+               <p>It is compared to the inueſtiture a poſſeſsion of thirtie yeares, or the conqueſsing of the lord-ship of any thing, by continuation of tyme, &amp;c. and a ſentence of the ordinary iudge.</p>
+               <pb facs="tcp:150475:4"/>
+            </div>
+            <div n="16" type="setting">
+               <head>THE SIXTENTH SETTING.</head>
+               <p>I Will novv prate a litle of the ſucceſsion. The ſucceſsion hath his compariſon to the getting <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. I ſet this rule, of the Which may be determined much demandes. And there ſucced in the faythgood the childen only, and novvſe the fathers.</p>
+            </div>
+            <div n="17" type="setting">
+               <head>THE SEUENTENTH SETTING.</head>
+               <p>Moreouer ſucced the ſonnes, and not the daughters: the Worldlies, and novvſe the cler<g ref="char:EOLhyphen"/>ckes. For he that becometh a clerck, loſeth moreouer the faythgood, the Which he hath. Bot, if a prelat the firſt receaueth a faithgood, may then not ſucced in the ſame heere after any prelat? I thruſt ſay ſo: for a daughter can after th' ſame fashion ſucced in that faythgood, the Which a Wife did get: And euen the ſame durſt i ſpeake of the prelates and clerckes.</p>
+            </div>
+            <div n="18" type="setting">
+               <head>THE EIGHTENTH SETTING.</head>
+               <p>More beyonde ſucced the boorne of a lavvfull mariage, eyther the Which are made after Ward lavvlies through a lavvfull mariage.</p>
+            </div>
+            <div n="19" type="setting">
+               <head>THE NYNTENTH SETTING.</head>
+               <p>And for to ſpeake generallie, ſo shall the ſucceſſours be ſuch men, that ther can ſerue to his lorde, at tyme of the<note n="a)" place="bottom">VVerra v, Alb. Gent. de iure bell. unde guerra Ital. Hinc forte vverigeld. Laur. (q. pecu<g ref="char:EOLhyphen"/>nia pro bello ſeu contentione) id eſt, mulcta pro homicidio: conſ. Tacit.</note> vvarre, in his ovvne perſon: for that cauſe, the vvich can neuer ſer<g ref="char:EOLhyphen"/>ue he ſelues, in his propre perſon, the ſame may not ſucced, as theare be the vnperfytes, blindes, dombes, deafes, &amp;c.</p>
+            </div>
+            <div n="20" type="setting">
+               <head>THE TWENTIETH SETTING.</head>
+               <p>The<note n="b)" place="bottom">Nepotes, id eſt, filii fatris. ann. Franc. iuniores. L.i.e, liberi, heredes.</note> ſomnes of the brethren (if they ſucced alones vvithout any other fathers bro<g ref="char:EOLhyphen"/>ther) ſucced to the fathers brother in ſingell heades, and not in other maner.</p>
+            </div>
+            <div n="21" type="setting">
+               <head>THE ONE AND TVVENTIETH SETTING.</head>
+               <p>In the right of the faythgoodes are reckened the ſtayers of the ſucceſsion, according to the lavv of the Emperours, and not, according to the lavv of the Popes? For alſo in the territorie of the Popes, the ſteppes of the ſucceſsion, be accompted, according to the lavves of the Empe<g ref="char:EOLhyphen"/>rours.</p>
+            </div>
+            <div n="22" type="setting">
+               <head>THE TVVO AND TWENTIETH SET.</head>
+               <p>I vvill novv speake of the Afterknovving or aknovvledging of the faithgood: For the vvhich hath gotten a faythgood, or ſucced in any faithgood, shall be thankfull to vvardes the lorde for ſuch faithgood: vvhence alſo the<note n="*" place="bottom">Feudum, â faith. i.e. fides: velfeede, Sax. foeden.</note> faithgood is called. A ſuch thank fulnes conſis<g ref="char:EOLhyphen"/>theth
+<pb facs="tcp:150475:4"/>allmoſt in three partes: to firſt in th' afterknovving, in caſe of the lords death; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: ſecondly, that he in his ovvne perſon (if he is<note n="a)" place="bottom">Eo ſpectat hereſchilt. Laur. i.e. clypeus militaris. <hi>die Macht von Lehenleuten.</hi> Simile in ſuo genere, <hi>die Reich Matricul.</hi>
+                  </note> required) ſerue vnto the lorde of the faithgood: and leaſtly, that he vſe it, as a good faythfull hous-bolder.</p>
+            </div>
+            <div n="23" type="setting">
+               <head>THE THREE AND TVVENTIETH SETTING.</head>
+               <p>Therfore if the faythman doeth not, vvhat he shall in theſe caſes, as then loſeth he his faithgood, and it returneth to his lorde. After, the ſame fashion, vvhen the faithman hath<note n="b)" place="bottom">Idem. in. Vadio. L. i.e. pignore, vadiare, Chr. Auguſt. &amp; in vadium dare. c. 1. extra de pignor.</note> alienated the faithgood, and ouergeuen the poſſeſsion of the ſame, or if he denyeth the faitgood: be he punished in that portion, the Which he hath alienated or refuſed.</p>
+            </div>
+            <div n="24" type="setting">
+               <head>THE EOURE AND TWENTIETH SET.</head>
+               <p>Moreouer are other Wayes to looſe a faythgood, that theare turneth to back to the lorde: as, if he maketh a great domage to the lorde in his goodes: or When he hath done a great in<g ref="char:EOLhyphen"/>iurie to, him, in his owne perſon, eyther in the perſone of his Wife, or his daughter, or his ſonnes Wife, or his ſiſter, the Which is yeat vnmaried. And the iniurie is iudged to be great, according to the uſance of the nations and prouinces.</p>
+            </div>
+            <div n="25" type="setting">
+               <head>THE FIUE AND TWENTIETH SET.</head>
+               <p>If the faithman hath not ſinned againſt the lorden, nor his perſones, as ther is, tolde: bot aganis an other, as, if he can not ſtand honestlie in the lords courte, per chance, hauing doo a killing of his parentes, or an incest, or When he for other great failles is infamied through the cleare right, eyther is condemned through the ſentence of the iudge: As then loſeth he his fayth<g ref="char:EOLhyphen"/>good, the Which perteineth then to the frindes on the fathers ſide, that ther are in the fourth degre.</p>
+            </div>
+            <div n="26" type="setting">
+               <head>THE SIX AND TWENTIETH SET<g ref="char:EOLhyphen"/>ting.</head>
+               <p>Becauſe that the frindes on the fathers ſide. conſistinges within the fourth ſteppe of the frindship, are iudged by ſome ſorte, for one perſon With the faithman, that ther failleth. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <pb facs="tcp:150475:5"/>
+            </div>
+            <div n="27" type="setting">
+               <head>THE SEUEN AND TWENTIETH SET.</head>
+               <p>And that, as much is doeth belong the moodes of the loſing. Bot in this place is to marke, that the argument of the correlatiues be of great ualour in the lawes, in ſuch maner, hat the lor<g ref="char:EOLhyphen"/>de loſeth his proprietie for likes offences and amiſſes, for Which the faith man loſeth his faith<g ref="char:EOLhyphen"/>good, excepted per aduenture three caſes.</p>
+            </div>
+            <div n="28" type="setting">
+               <head>THE EIGHT AND TWENTIETH SET.</head>
+               <p>I Will novv ſay a litte of the iudgement. Here is a ſuch rule, that noman can be any iud<g ref="char:EOLhyphen"/>ge in his<note n="a)" place="bottom">Der ſom ſelf uidner om ſig, da er ſit vidnisbyrde icke ſant.</note> ovvne ſake: and co ſequentlie, if any debate is among the faythmen of a faith<g ref="char:EOLhyphen"/>good, as of the faithgood, as then is the lorde a iudge: bot if any contention is among the lord, and one of the faithmen, as then be<note n="b)" place="bottom">Iudices etiam pro Doctorib. Burch Peth, de Vin. lib. 3. ep. 11. ann. Godefr. in pr. V. cap. 17. ext. de elect. in 6. iunct. §. 8. Inſtit. de inf. N. G. &amp; C.</note> iudges the other faithmen of the ſame courte. The plea<g ref="char:EOLunhyphen"/>ding men may alſo chooſe ſome certaine perſones of many faythmen: And from the beginning a bargaine can be made of the iudges perſones.</p>
+            </div>
+            <div n="29" type="setting">
+               <head>THE NYNE AND TWENTIETH SET.</head>
+               <p>The othe of the calumnie, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, is not ſworne in this iudgement: for euen that cauſe beleeue i that the faithma<g ref="char:cmbAbbrStroke">̄</g> may call to the lavv his lorde, without any ſpeciall leaue</p>
+            </div>
+            <div n="30" type="setting">
+               <head>THE TRETTIETH AND LEAST SET.</head>
+               <p>The faithgood in a doubt ſome caſe doo Wee iudge to be propre. Wamanly, Worldly, noble, fatherlie, &amp;c. Further more is obſerued in this iudgement the ſame<note n="c)" place="bottom">Ut mannire, Laur. q <hi>zum manngericht laden,</hi> id eſt, in ius vocare: ſed mallus. L.i.e. tri<g ref="char:EOLhyphen"/>bunal. q. die <hi>mahlſtadt:</hi> unde ad mallatus, i.e. citatus. Ding, unde ding hoef: hinc ungeboden<g ref="char:EOLhyphen"/>ding. Laur. id eſt, curia non indicta, à <hi>gebiethen.</hi>
+                  </note> maner of the iudgementes, the Which is Writen in the ciuill lawes, in ſuch Wiſe, that moreguer it can be appealled from the inferiour iudge to the higher iudge, and if none higher is, as then to the iudge of the ſame place or countrey.</p>
+            </div>
+            <div type="conclusion">
+               <head>THE CONCLUSION.</head>
+               <p>And alſo With the appealling make, i an end of my reaſoning, commanding me to the Worship of the belooued Read. r. the Which shall conſider, that i, according to the ordinan<g ref="char:EOLhyphen"/>ce of our collegie, haue Written this diſputing the tenth day of my Inglish: And praye, that euery one will proue him ſelf, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and vſa the ſame right be ſelues, the Which he hath ſpooken againſt me: in other Wayes appeall i to a ſuch iudge, that ther is more diſcreat and humaine, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, nowſe doubting that i may at the leaſt obtaine the uictorie of the cauſe.</p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:150475:5"/>
+            <pb facs="tcp:150475:6"/>
+            <pb facs="tcp:150475:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
